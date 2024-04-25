@@ -2,7 +2,7 @@
 
 <h2>📄 Sobre</h2>
 
-<p>Projeto do curso da Alura: o site consiste em o usuário tentar adivinhar o número gerado com o menor número de tentativas possível.</p>
+<p>O site consiste em o usuário tentar adivinhar o número gerado com o menor número de tentativas possível.</p>
 
 ## 🚀 Tecnológica 
 <div>
